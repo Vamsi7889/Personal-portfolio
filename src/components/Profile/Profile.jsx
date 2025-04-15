@@ -12,7 +12,7 @@ function Profile() {
 
                 <div className={styles.type}>
                     <Typewriter 
-                        words = {['Computer Science Student', 'Front-end Web Developer','AI -ML Engineer]}
+                        words = {['Computer Science Student', 'Front-end Web Developer','AI -ML Engineer']}
                         loop = {0}
                         typeSpeed = {100}
                         deleteSpeed = {60}
