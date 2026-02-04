@@ -43,6 +43,11 @@ const SkillsList = [
         id: 8,
         name: "Git",
         icon: <FaGitAlt size="5.5rem" />
+    },
+     {
+        id: 9,
+        name: "Power BI",
+        icon: <FaGitAlt size="5.5rem" />
     }
 ]
 
