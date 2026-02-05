@@ -48,7 +48,13 @@ const SkillsList = [
         id: 9,
         name: "Power BI",
         icon: <FaGitAlt size="5.5rem" />
+    },
+    {
+        id: 10,
+        name: "ML",
+        icon: <FaGitAlt size="5.5rem" />
     }
+]
 ]
 
 export default SkillsList;
