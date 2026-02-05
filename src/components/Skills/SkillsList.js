@@ -53,6 +53,11 @@ const SkillsList = [
         id: 10,
         name: "ML",
         icon: <FaGitAlt size="5.5rem" />
+    },
+    {
+        id: 11,
+        name: "Gen - AI",
+        icon: <FaGitAlt size="5.5rem" />
     }
 ]
 ]
